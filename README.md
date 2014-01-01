@@ -1,7 +1,7 @@
 EE201 Text Editor
 =================
 
-Text editor created for my EE 201 - Introduction to Digital Circuits final project with Aidan Blant. A video demonstration will be uploaded soon.
+Text editor created for my EE 201 - Introduction to Digital Circuits final project with Aidan Blant. A video demonstration will be uploaded soon. (Also, I apologize for weird indentation caused by Xilinx.)
 
 ###Project Framework
 Our main goal for this project was to implement a text editor using our Nexys-3 that allows a user to use an attached keyboard to type and display text on screen. The text editor has the following capabilities: displaying the alphabet, displaying a blinking cursor, changing text color, changing text size, scrolling text, and deleting text. Due to time constraint and physical constraints of the Nexys-3 itself, we were unable to implement a function for every key on the keyboard (no numbers 0-9, no Ctrl, Shift, CapsLock, Tab, Alt, extra punctuation functionality); however, the program certainly works for very simple text editing.
