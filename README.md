@@ -28,18 +28,18 @@ The current implementation uses a virtual 512 byte RAM located on the FPGA itsel
 
 ###Instructions
 #####Normal Typing:
-+ Letters A-Z: type a capital letter
-+ Space: inserts a space at the cursor
-+ Comma (,) Period (.) and Apostrophe (‘): work normally
-+ 1 (one) inserts an exclamation point (!)
-+ Insert: Places a solid, filled-in block at the cursor (for pixel art)
-+ Backspace: delete previous letter and move cursor back one
-+ Delete: delete character at cursor without moving cursor
++ Letters **A-Z**: type a capital letter
++ **Space**: inserts a space at the cursor
++ Comma (**,**) Period (**.**) and Apostrophe (**‘**): work normally
++ 1 (one) inserts an exclamation point (**!**)
++ **Insert**: Places a solid, filled-in block at the cursor (for pixel art)
++ **Backspace**: delete previous letter and move cursor back one
++ **Delete**: delete character at cursor without moving cursor
 
 #####Keyboard commands:
-+ Arrow Keys: Move cursor up/down/left/right
-+ + & - keys (On Keypad ONLY): Increase/decrease text size
-+ Page Down & Page Up: Scroll text up and down
-+ F1: Toggle Red color of text
-+ F2: Toggle Green color of text (Will default to green if all are off)
-+ F3: Toggle Blue color of text
++ **Arrow Keys**: Move cursor up/down/left/right
++ **+** & **-** keys (On Keypad ONLY): Increase/decrease text size
++ **Page Down** & **Page Up**: Scroll text up and down
++ **F1**: Toggle Red color of text
++ **F2**: Toggle Green color of text (Will default to green if all are off)
++ **F3**: Toggle Blue color of text
